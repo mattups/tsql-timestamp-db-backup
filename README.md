@@ -16,7 +16,7 @@ Next, define a path to store the new backup, so you can just add something like 
 
 Finally, choose the DB you want to perform a backup simply typing its name instead of `your-db`.
 
-# Script for the trick
+# Click for the trick
 Ok, now that db_backup.sql is able to do the magic, it's time to perform the backup. 
 
 In `backup.bat` you will have to edit this simple line, adjusting parameters to fit your configuration.
