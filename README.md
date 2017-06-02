@@ -24,6 +24,3 @@ In `backup.bat` you will have to edit this simple line, adjusting parameters to 
 ```sqlcmd -S server_name\instance_name -i C:\path\to\db_backup.sql```
 
 Double-click on the script and enjoy your backup with timestamp!
-
-# Zip backup
-Currently working on how to zip backup file
